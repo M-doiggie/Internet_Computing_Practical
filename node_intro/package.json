@@ -1,0 +1,22 @@
+{
+  "name": "node_intro",
+  "version": "0.1.0",
+  "description": "The introduction to node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-doiggie/Internet_Computing_Practical.git"
+  },
+  "author": "M-Doiggie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-doiggie/Internet_Computing_Practical/issues"
+  },
+  "homepage": "https://github.com/M-doiggie/Internet_Computing_Practical#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
